@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar ~/.local/lib/calc/calc.jar "$@"
