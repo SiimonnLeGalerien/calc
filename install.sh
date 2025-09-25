@@ -1,4 +1,5 @@
 #!/bin/bash
+javac *.java
 jar cfe calc.jar Calc Calc.class
 mkdir -p ~/.local/lib/calc
 mv calc.jar ~/.local/lib/calc/
